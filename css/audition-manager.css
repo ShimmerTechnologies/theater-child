@@ -1,0 +1,23 @@
+/**ADMIN STYLES**/
+
+.audition_manager_extras div{
+margin: 10px;
+}
+
+.audition_manager_extras div label{
+width: 100%;
+float: left;
+padding: 0 0 10px 0;
+}
+
+.audition_manager_extras div input {
+	width: 50%;
+}
+.req {
+    bottom: 5px;
+    color: red;
+    left: 5px;
+    position: relative;
+}
+
+.bold { font-weight:600; }
