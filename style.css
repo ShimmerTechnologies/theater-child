@@ -289,6 +289,9 @@ h2.cmsmasters_project_title.entry-title, .showDates {
     }
 
 }
+.tribe-events-tooltip .tribe-events-event-body {
+    height: 17rem;
+}
 /* end events */
 
 /* profiles */
